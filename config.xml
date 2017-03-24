@@ -4,8 +4,9 @@
 		id          = "MD_BC_APP"
         version     = "1.0.0" >
      <icon src="www/icon.png" />
+<plugin name="cordova-plugin-splashscreen" spec="~4.0.2" />
 
-<gap:splash src="splash.png" /> 
+<splash src="splash.png" /> 
 
 <splash src="splash.png" platform="android" qualifier="ldpi" />
 <splash src="splash.png" platform="android" qualifier="mdpi" />
