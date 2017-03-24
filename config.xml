@@ -3,6 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id          = "MD_BC_APP"
         version     = "1.0.0" >
+     <icon src="www/icon.png" />
 
     <name>MD BUSINESS CARD</name>
     <description>MATEUSZ DUDLAK BC</description>
