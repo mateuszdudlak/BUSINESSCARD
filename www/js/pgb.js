@@ -14,13 +14,4 @@ function deviceInfo() {
 			'Projektowanie aplikacji mibilnych' + '\n';
 
 	navigator.notification.alert(info);
-	
-/*}
-
-function deviceInfo() {
-
-	infoa = 'Mam na imie Mateusz '; 
-
-	navigator.notification.alert(infoa);
-	
-}*/
+}
