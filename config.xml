@@ -5,7 +5,7 @@
         version     = "1.0.0" >
      <icon src="www/icon.png" />
 
-<splash src="splash.png" /> 
+<gap:splash src="splash.png" /> 
 
 <splash src="splash.png" platform="android" qualifier="ldpi" />
 <splash src="splash.png" platform="android" qualifier="mdpi" />
