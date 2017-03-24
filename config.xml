@@ -5,12 +5,19 @@
         version     = "1.0.0" >
      <icon src="www/icon.png" />
 
- <platform name="android">
-              <icon src="merges/android/ldpi.png" density="ldpi" />
-              <icon src="merges/android/mdpi.png" density="mdpi" />
-              <icon src="merges/android/hdpi.png" density="hdpi" />
-              <icon src="merges/android/xhdpi.png" density="xhdpi" />
-     </platform>
+<platform name="android">
+    <!-- you can use any density that exists in the Android project -->
+    <splash src="merges/screen/android/splash-land-hdpi.png" density="land-hdpi"/>
+    <splash src="merges/screen/android/splash-land-ldpi.png" density="land-ldpi"/>
+    <splash src="merges/screen/android/splash-land-mdpi.png" density="land-mdpi"/>
+    <splash src="merges/screen/android/splash-land-xhdpi.png" density="land-xhdpi"/>
+
+    <splash src="merges/screen/android/splash-port-hdpi.png" density="port-hdpi"/>
+    <splash src="merges/screen/android/splash-port-ldpi.png" density="port-ldpi"/>
+    <splash src="merges/screen/android/splash-port-mdpi.png" density="port-mdpi"/>
+    <splash src="merges/screen/android/splash-port-xhdpi.png" density="port-xhdpi"/>
+</platform>
+
 
 
     <name>MD BUSINESS CARD</name>
