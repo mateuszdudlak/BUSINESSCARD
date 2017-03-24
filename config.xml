@@ -5,6 +5,14 @@
         version     = "1.0.0" >
      <icon src="www/icon.png" />
 
+ <platform name="android">
+              <icon src="merges/android/ldpi.png" density="ldpi" />
+              <icon src="merges/android/mdpi.png" density="mdpi" />
+              <icon src="merges/android/hdpi.png" density="hdpi" />
+              <icon src="merges/android/xhdpi.png" density="xhdpi" />
+     </platform>
+
+
     <name>MD BUSINESS CARD</name>
     <description>MATEUSZ DUDLAK BC</description>
     <author email="mateusz.dudlak@gmail.com">
