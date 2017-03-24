@@ -7,15 +7,15 @@
 
 <platform name="android">
     <!-- you can use any density that exists in the Android project -->
-    <splash src="scr/splash-land-hdpi.png" density="land-hdpi"/>
-    <splash src="scr/splash-land-ldpi.png" density="land-ldpi"/>
-    <splash src="scr/splash-land-mdpi.png" density="land-mdpi"/>
-    <splash src="scr/splash-land-xhdpi.png" density="land-xhdpi"/>
+    <splash src="scr/splash.png" density="land-hdpi"/>
+    <splash src="scr/splash.png" density="land-ldpi"/>
+    <splash src="scr/splash.png" density="land-mdpi"/>
+    <splash src="scr/splash.png" density="land-xhdpi"/>
 
-    <splash src="scr/splash-port-hdpi.png" density="port-hdpi"/>
-    <splash src="scr/splash-port-ldpi.png" density="port-ldpi"/>
-    <splash src="src/splash-port-mdpi.png" density="port-mdpi"/>
-    <splash src="src/splash-port-xhdpi.png" density="port-xhdpi"/>
+    <splash src="scr/splash.png" density="port-hdpi"/>
+    <splash src="scr/splash.png" density="port-ldpi"/>
+    <splash src="scr/splash.png" density="port-mdpi"/>
+    <splash src="scr/splash.png" density="port-xhdpi"/>
 </platform>
 
 
